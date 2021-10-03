@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "lavictory",
+      "Access-Control-Allow-Origin": "*"
+    }
+  } 
+}
